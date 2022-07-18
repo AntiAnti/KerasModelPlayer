@@ -1,7 +1,7 @@
 # Keras Model Player
 UE5 plugin to play lightweight neural models.
 
-This is UE5 wrapper for [keras2cpp](https://github.com/gosha20777/keras2cpp) library by [gosha20777](https://github.com/gosha20777). The library uses native C++ code only, and it can be compiled for many platforms. This is a huge advantage, because lightweight neural network trained with Keras can be executed on platforms which doesn't supported, for example, by PyTorch. The plugin was packaged for Windows, Linux, Android and Microsoft HoloLens 2.
+This is UE5 wrapper for [keras2cpp](https://github.com/gosha20777/keras2cpp) library by [gosha20777](https://github.com/gosha20777). The library uses native C++ code only, and it can be compiled for many platforms. This is a huge advantage, because lightweight neural network trained with Keras can be executed on platforms which doesn't supported, for example, by PyTorch. The plugin was packaged for Windows, Linux, Android and Holographic Windows 10 (HoloLens 2).
 
 *Please read about limitations of this library by the link above.* In brief, it doesn't support Conv3D and GRU/CNN layers.
 
