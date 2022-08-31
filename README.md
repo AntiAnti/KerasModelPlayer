@@ -71,6 +71,6 @@ For blueprints usage, see demo project.
 
 ## Notes
 
-- The plugin can't be packaged for UE4, because keras2cpp requires C++17.
+- ~~The plugin can't be packaged for UE4, because keras2cpp requires C++17~~. Now it supports UE4.
 
 - I slightly modified keras2cpp sources to compile it for Android.
